@@ -1,7 +1,7 @@
 # mapbox-api-audit
 Audits the permissions given a mapbox API token. 
 
-Usage: `python .\main.py token username`
+Usage: `python .\main.py <mapbox_public_token> <username> [--verbose]`
 
 Example output: 
 
